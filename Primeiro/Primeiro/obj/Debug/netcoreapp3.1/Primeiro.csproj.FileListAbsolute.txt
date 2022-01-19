@@ -1,0 +1,11 @@
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb

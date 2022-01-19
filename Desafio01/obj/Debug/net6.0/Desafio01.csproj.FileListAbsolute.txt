@@ -1,0 +1,15 @@
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\bin\Debug\net6.0\Desafio01.exe
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\bin\Debug\net6.0\Desafio01.deps.json
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\bin\Debug\net6.0\Desafio01.runtimeconfig.json
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\bin\Debug\net6.0\Desafio01.dll
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\bin\Debug\net6.0\ref\Desafio01.dll
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\bin\Debug\net6.0\Desafio01.pdb
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.csproj.AssemblyReference.cache
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.AssemblyInfoInputs.cache
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.AssemblyInfo.cs
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.csproj.CoreCompileInputs.cache
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.dll
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\ref\Desafio01.dll
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.pdb
+C:\Users\thamo\Documents\JAVA\DIO\DecolaTech_2_edição\Desafio01\obj\Debug\net6.0\Desafio01.genruntimeconfig.cache

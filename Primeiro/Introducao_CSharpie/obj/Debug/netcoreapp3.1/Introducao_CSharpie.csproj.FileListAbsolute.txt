@@ -1,0 +1,10 @@
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\bin\Debug\netcoreapp3.1\Introducao_CSharpie.exe
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\bin\Debug\netcoreapp3.1\Introducao_CSharpie.deps.json
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\bin\Debug\netcoreapp3.1\Introducao_CSharpie.runtimeconfig.json
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\bin\Debug\netcoreapp3.1\Introducao_CSharpie.runtimeconfig.dev.json
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\bin\Debug\netcoreapp3.1\Introducao_CSharpie.dll
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\bin\Debug\netcoreapp3.1\Introducao_CSharpie.pdb
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\obj\Debug\netcoreapp3.1\Introducao_CSharpie.AssemblyInfoInputs.cache
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\obj\Debug\netcoreapp3.1\Introducao_CSharpie.AssemblyInfo.cs
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\obj\Debug\netcoreapp3.1\Introducao_CSharpie.dll
+C:\Users\thamo\Documents\JAVA\DIO\Decola Tech - 2ª edição\Primeiro\Introducao_CSharpie\obj\Debug\netcoreapp3.1\Introducao_CSharpie.pdb
